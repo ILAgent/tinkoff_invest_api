@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:tinkoff_api/auth/auth.dart';
+import 'package:tinkoff_invest_api/auth/auth.dart';
 import 'package:dio/dio.dart';
 
 class ApiKeyAuthInterceptor extends AuthInterceptor {

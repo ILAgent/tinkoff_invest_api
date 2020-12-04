@@ -17,11 +17,11 @@ Dart 1.20.0 or later OR Flutter 0.0.20 or later
 
 ### Github
 ```
-name: tinkoff_api
+name: tinkoff_invest_api
 version: 0.0.1
 description: OpenAPI API client
 dependencies:
-  tinkoff_api:
+  tinkoff_invest_api:
     git: https://github.com/ILAgent/tinkoff_invest_api
       version: 'any'
 ```
@@ -30,8 +30,8 @@ dependencies:
 To use the package in your local drive, please include the following in pubspec.yaml
 ```
 dependencies:
-  tinkoff_api:
-    path: /path/to/tinkoff_api
+  tinkoff_invest_api:
+    path: /path/to/tinkoff_invest_api
 ```
 
 ## Getting Started
@@ -39,7 +39,7 @@ dependencies:
 Please follow the [installation procedure](#installation--usage) and then run the following:
 
 ```dart
-import 'package:tinkoff_api/api.dart';
+import 'package:tinkoff_invest_api/api.dart';
 
 
 var api_instance = new MarketApi();

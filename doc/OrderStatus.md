@@ -1,8 +1,8 @@
-# tinkoff_api.model.OrderStatus
+# tinkoff_invest_api.model.OrderStatus
 
 ## Load the model package
 ```dart
-import 'package:tinkoff_api/api.dart';
+import 'package:tinkoff_invest_api/api.dart';
 ```
 
 ## Properties

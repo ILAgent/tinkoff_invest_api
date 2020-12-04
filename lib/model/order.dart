@@ -1,6 +1,6 @@
-            import 'package:tinkoff_api/model/order_type.dart';
-            import 'package:tinkoff_api/model/order_status.dart';
-            import 'package:tinkoff_api/model/operation_type.dart';
+            import 'package:tinkoff_invest_api/model/order_type.dart';
+            import 'package:tinkoff_invest_api/model/order_status.dart';
+            import 'package:tinkoff_invest_api/model/operation_type.dart';
         import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';
 

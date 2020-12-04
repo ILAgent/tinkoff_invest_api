@@ -1,8 +1,8 @@
-# tinkoff_api.model.Orderbook
+# tinkoff_invest_api.model.Orderbook
 
 ## Load the model package
 ```dart
-import 'package:tinkoff_api/api.dart';
+import 'package:tinkoff_invest_api/api.dart';
 ```
 
 ## Properties

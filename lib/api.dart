@@ -1,17 +1,17 @@
-library tinkoff_api.api;
+library tinkoff_invest_api.api;
 
 import 'package:dio/dio.dart';
 import 'package:built_value/serializer.dart';
-import 'package:tinkoff_api/serializers.dart';
-import 'package:tinkoff_api/auth/api_key_auth.dart';
-import 'package:tinkoff_api/auth/basic_auth.dart';
-import 'package:tinkoff_api/auth/oauth.dart';
-import 'package:tinkoff_api/api/market_api.dart';
-import 'package:tinkoff_api/api/operations_api.dart';
-import 'package:tinkoff_api/api/orders_api.dart';
-import 'package:tinkoff_api/api/portfolio_api.dart';
-import 'package:tinkoff_api/api/sandbox_api.dart';
-import 'package:tinkoff_api/api/user_api.dart';
+import 'package:tinkoff_invest_api/serializers.dart';
+import 'package:tinkoff_invest_api/auth/api_key_auth.dart';
+import 'package:tinkoff_invest_api/auth/basic_auth.dart';
+import 'package:tinkoff_invest_api/auth/oauth.dart';
+import 'package:tinkoff_invest_api/api/market_api.dart';
+import 'package:tinkoff_invest_api/api/operations_api.dart';
+import 'package:tinkoff_invest_api/api/orders_api.dart';
+import 'package:tinkoff_invest_api/api/portfolio_api.dart';
+import 'package:tinkoff_invest_api/api/sandbox_api.dart';
+import 'package:tinkoff_invest_api/api/user_api.dart';
 
 
 final _defaultInterceptors = [OAuthInterceptor(), BasicAuthInterceptor(), ApiKeyAuthInterceptor()];

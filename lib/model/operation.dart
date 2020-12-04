@@ -1,10 +1,10 @@
-            import 'package:tinkoff_api/model/operation_type_with_commission.dart';
+            import 'package:tinkoff_invest_api/model/operation_type_with_commission.dart';
             import 'package:built_collection/built_collection.dart';
-            import 'package:tinkoff_api/model/money_amount.dart';
-            import 'package:tinkoff_api/model/instrument_type.dart';
-            import 'package:tinkoff_api/model/operation_status.dart';
-            import 'package:tinkoff_api/model/currency.dart';
-            import 'package:tinkoff_api/model/operation_trade.dart';
+            import 'package:tinkoff_invest_api/model/money_amount.dart';
+            import 'package:tinkoff_invest_api/model/instrument_type.dart';
+            import 'package:tinkoff_invest_api/model/operation_status.dart';
+            import 'package:tinkoff_invest_api/model/currency.dart';
+            import 'package:tinkoff_invest_api/model/operation_trade.dart';
         import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';
 

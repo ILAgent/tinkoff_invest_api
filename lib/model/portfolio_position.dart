@@ -1,5 +1,5 @@
-            import 'package:tinkoff_api/model/money_amount.dart';
-            import 'package:tinkoff_api/model/instrument_type.dart';
+            import 'package:tinkoff_invest_api/model/money_amount.dart';
+            import 'package:tinkoff_invest_api/model/instrument_type.dart';
         import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';
 

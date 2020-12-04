@@ -1,8 +1,8 @@
-# tinkoff_api.api.MarketApi
+# tinkoff_invest_api.api.MarketApi
 
 ## Load the API package
 ```dart
-import 'package:tinkoff_api/api.dart';
+import 'package:tinkoff_invest_api/api.dart';
 ```
 
 All URIs are relative to *https://api-invest.tinkoff.ru/openapi*
@@ -26,7 +26,7 @@ Method | HTTP request | Description
 
 ### Example 
 ```dart
-import 'package:tinkoff_api/api.dart';
+import 'package:tinkoff_invest_api/api.dart';
 // TODO Configure HTTP basic authorization: sso_auth
 //defaultApiClient.getAuthentication<HttpBasicAuth>('sso_auth').username = 'YOUR_USERNAME'
 //defaultApiClient.getAuthentication<HttpBasicAuth>('sso_auth').password = 'YOUR_PASSWORD';
@@ -66,7 +66,7 @@ This endpoint does not need any parameter.
 
 ### Example 
 ```dart
-import 'package:tinkoff_api/api.dart';
+import 'package:tinkoff_invest_api/api.dart';
 // TODO Configure HTTP basic authorization: sso_auth
 //defaultApiClient.getAuthentication<HttpBasicAuth>('sso_auth').username = 'YOUR_USERNAME'
 //defaultApiClient.getAuthentication<HttpBasicAuth>('sso_auth').password = 'YOUR_PASSWORD';
@@ -116,7 +116,7 @@ Name | Type | Description  | Notes
 
 ### Example 
 ```dart
-import 'package:tinkoff_api/api.dart';
+import 'package:tinkoff_invest_api/api.dart';
 // TODO Configure HTTP basic authorization: sso_auth
 //defaultApiClient.getAuthentication<HttpBasicAuth>('sso_auth').username = 'YOUR_USERNAME'
 //defaultApiClient.getAuthentication<HttpBasicAuth>('sso_auth').password = 'YOUR_PASSWORD';
@@ -156,7 +156,7 @@ This endpoint does not need any parameter.
 
 ### Example 
 ```dart
-import 'package:tinkoff_api/api.dart';
+import 'package:tinkoff_invest_api/api.dart';
 // TODO Configure HTTP basic authorization: sso_auth
 //defaultApiClient.getAuthentication<HttpBasicAuth>('sso_auth').username = 'YOUR_USERNAME'
 //defaultApiClient.getAuthentication<HttpBasicAuth>('sso_auth').password = 'YOUR_PASSWORD';
@@ -196,7 +196,7 @@ This endpoint does not need any parameter.
 
 ### Example 
 ```dart
-import 'package:tinkoff_api/api.dart';
+import 'package:tinkoff_invest_api/api.dart';
 // TODO Configure HTTP basic authorization: sso_auth
 //defaultApiClient.getAuthentication<HttpBasicAuth>('sso_auth').username = 'YOUR_USERNAME'
 //defaultApiClient.getAuthentication<HttpBasicAuth>('sso_auth').password = 'YOUR_PASSWORD';
@@ -242,7 +242,7 @@ Name | Type | Description  | Notes
 
 ### Example 
 ```dart
-import 'package:tinkoff_api/api.dart';
+import 'package:tinkoff_invest_api/api.dart';
 // TODO Configure HTTP basic authorization: sso_auth
 //defaultApiClient.getAuthentication<HttpBasicAuth>('sso_auth').username = 'YOUR_USERNAME'
 //defaultApiClient.getAuthentication<HttpBasicAuth>('sso_auth').password = 'YOUR_PASSWORD';
@@ -286,7 +286,7 @@ Name | Type | Description  | Notes
 
 ### Example 
 ```dart
-import 'package:tinkoff_api/api.dart';
+import 'package:tinkoff_invest_api/api.dart';
 // TODO Configure HTTP basic authorization: sso_auth
 //defaultApiClient.getAuthentication<HttpBasicAuth>('sso_auth').username = 'YOUR_USERNAME'
 //defaultApiClient.getAuthentication<HttpBasicAuth>('sso_auth').password = 'YOUR_PASSWORD';
@@ -330,7 +330,7 @@ Name | Type | Description  | Notes
 
 ### Example 
 ```dart
-import 'package:tinkoff_api/api.dart';
+import 'package:tinkoff_invest_api/api.dart';
 // TODO Configure HTTP basic authorization: sso_auth
 //defaultApiClient.getAuthentication<HttpBasicAuth>('sso_auth').username = 'YOUR_USERNAME'
 //defaultApiClient.getAuthentication<HttpBasicAuth>('sso_auth').password = 'YOUR_PASSWORD';

@@ -1,4 +1,4 @@
-            import 'package:tinkoff_api/model/candles.dart';
+            import 'package:tinkoff_invest_api/model/candles.dart';
         import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';
 

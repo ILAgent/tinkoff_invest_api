@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'dart:convert';
-import 'package:tinkoff_api/auth/auth.dart';
+import 'package:tinkoff_invest_api/auth/auth.dart';
 import 'package:dio/dio.dart';
 
 class BasicAuthInfo {

@@ -1,8 +1,8 @@
-# tinkoff_api.model.LimitOrderResponse
+# tinkoff_invest_api.model.LimitOrderResponse
 
 ## Load the model package
 ```dart
-import 'package:tinkoff_api/api.dart';
+import 'package:tinkoff_invest_api/api.dart';
 ```
 
 ## Properties

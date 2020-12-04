@@ -5,9 +5,9 @@ import 'package:dio/dio.dart';
 import 'package:built_collection/built_collection.dart';
 import 'package:built_value/serializer.dart';
 
-import 'package:tinkoff_api/model/portfolio_response.dart';
-import 'package:tinkoff_api/model/portfolio_currencies_response.dart';
-import 'package:tinkoff_api/model/error.dart';
+import 'package:tinkoff_invest_api/model/portfolio_response.dart';
+import 'package:tinkoff_invest_api/model/portfolio_currencies_response.dart';
+import 'package:tinkoff_invest_api/model/error.dart';
 
 class PortfolioApi {
     final Dio _dio;

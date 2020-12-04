@@ -5,12 +5,12 @@ import 'package:dio/dio.dart';
 import 'package:built_collection/built_collection.dart';
 import 'package:built_value/serializer.dart';
 
-import 'package:tinkoff_api/model/sandbox_set_currency_balance_request.dart';
-import 'package:tinkoff_api/model/sandbox_register_request.dart';
-import 'package:tinkoff_api/model/error.dart';
-import 'package:tinkoff_api/model/sandbox_set_position_balance_request.dart';
-import 'package:tinkoff_api/model/sandbox_register_response.dart';
-import 'package:tinkoff_api/model/empty.dart';
+import 'package:tinkoff_invest_api/model/sandbox_set_currency_balance_request.dart';
+import 'package:tinkoff_invest_api/model/sandbox_register_request.dart';
+import 'package:tinkoff_invest_api/model/error.dart';
+import 'package:tinkoff_invest_api/model/sandbox_set_position_balance_request.dart';
+import 'package:tinkoff_invest_api/model/sandbox_register_response.dart';
+import 'package:tinkoff_invest_api/model/empty.dart';
 
 class SandboxApi {
     final Dio _dio;

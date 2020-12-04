@@ -1,5 +1,5 @@
             import 'package:built_collection/built_collection.dart';
-            import 'package:tinkoff_api/model/operation.dart';
+            import 'package:tinkoff_invest_api/model/operation.dart';
         import 'package:built_value/built_value.dart';
 import 'package:built_value/serializer.dart';
 

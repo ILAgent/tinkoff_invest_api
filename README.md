@@ -16,14 +16,13 @@ Dart 1.20.0 or later OR Flutter 0.0.20 or later
 ## Installation & Usage
 
 ### Github
-If this Dart package is published to Github, please include the following in pubspec.yaml
 ```
 name: tinkoff_api
 version: 0.0.   
 description: OpenAPI API client
 dependencies:
   tinkoff_api:
-    git: https://github.com/GIT_USER_ID/GIT_REPO_ID.git
+    git: https://github.com/ILAgent/tinkoff_invest_api
       version: 'any'
 ```
 

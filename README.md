@@ -18,7 +18,7 @@ Dart 1.20.0 or later OR Flutter 0.0.20 or later
 ### Github
 ```
 name: tinkoff_api
-version: 0.0.   
+version: 0.0.1
 description: OpenAPI API client
 dependencies:
   tinkoff_api:

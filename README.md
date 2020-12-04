@@ -23,7 +23,6 @@ description: OpenAPI API client
 dependencies:
   tinkoff_invest_api:
     git: https://github.com/ILAgent/tinkoff_invest_api
-      version: 'any'
 ```
 
 ### Local

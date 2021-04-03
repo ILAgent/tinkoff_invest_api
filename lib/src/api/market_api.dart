@@ -11,7 +11,6 @@ import 'package:tinkoff_invest_api/src/model/candle_resolution.dart';
 import 'package:tinkoff_invest_api/src/model/orderbook_response.dart';
 import 'package:tinkoff_invest_api/src/model/candles_response.dart';
 import 'package:tinkoff_invest_api/src/model/search_market_instrument_response.dart';
-import 'package:tinkoff_invest_api/src/model/error.dart';
 import 'package:tinkoff_invest_api/src/model/market_instrument_list_response.dart';
 
 class MarketApi {

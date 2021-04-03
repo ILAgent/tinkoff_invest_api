@@ -9,7 +9,6 @@ import 'package:dio/dio.dart';
 
 import 'package:tinkoff_invest_api/src/model/limit_order_request.dart';
 import 'package:tinkoff_invest_api/src/model/orders_response.dart';
-import 'package:tinkoff_invest_api/src/model/error.dart';
 import 'package:tinkoff_invest_api/src/model/market_order_request.dart';
 import 'package:tinkoff_invest_api/src/model/market_order_response.dart';
 import 'package:tinkoff_invest_api/src/model/empty.dart';

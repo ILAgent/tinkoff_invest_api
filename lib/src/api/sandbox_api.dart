@@ -9,7 +9,6 @@ import 'package:dio/dio.dart';
 
 import 'package:tinkoff_invest_api/src/model/sandbox_set_currency_balance_request.dart';
 import 'package:tinkoff_invest_api/src/model/sandbox_register_request.dart';
-import 'package:tinkoff_invest_api/src/model/error.dart';
 import 'package:tinkoff_invest_api/src/model/sandbox_set_position_balance_request.dart';
 import 'package:tinkoff_invest_api/src/model/sandbox_register_response.dart';
 import 'package:tinkoff_invest_api/src/model/empty.dart';

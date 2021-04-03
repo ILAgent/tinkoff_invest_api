@@ -8,7 +8,6 @@ import 'package:built_value/serializer.dart';
 import 'package:dio/dio.dart';
 
 import 'package:tinkoff_invest_api/src/model/user_accounts_response.dart';
-import 'package:tinkoff_invest_api/src/model/error.dart';
 
 class UserApi {
 

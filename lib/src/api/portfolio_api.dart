@@ -9,7 +9,6 @@ import 'package:dio/dio.dart';
 
 import 'package:tinkoff_invest_api/src/model/portfolio_response.dart';
 import 'package:tinkoff_invest_api/src/model/portfolio_currencies_response.dart';
-import 'package:tinkoff_invest_api/src/model/error.dart';
 
 class PortfolioApi {
 
